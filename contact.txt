@@ -1,1 +1,3 @@
-hghg
+This is my contact file
+git add for local to staged
+git commit from staged area
